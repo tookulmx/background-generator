@@ -61,3 +61,18 @@ footer {
     font-size: 2rem;
     padding-top: 2rem;
 }
+
+.direction {
+    width: 100%;
+    align-items: center;
+    padding: 2em;
+}
+
+#left-right {
+    font-family: 'Spline Sans', sans-serif;
+    color: black;
+    background-color: whitesmoke;
+    padding: .5em 2em;
+    border-radius: 5px;
+    
+}
